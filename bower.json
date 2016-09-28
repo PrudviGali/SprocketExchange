@@ -1,0 +1,7 @@
+{
+  "name":"SproutsExchange",
+  "description":"",
+  "dependencies":{
+    "angular":"*"
+  }
+}

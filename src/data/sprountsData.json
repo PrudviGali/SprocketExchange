@@ -1,0 +1,49 @@
+{
+	"appHeader": "Sprouts Exchange",
+	"yourHoldings": {
+		"label": "Your Holdings",
+		"availableCash" : 220,
+		"availableSprouts" : 27
+	},
+
+	"history":[
+
+		{
+			"date": "whdghwe",
+			"action": "wefqwe",
+			"unitprice":"334",
+			"count":21,
+			"total":"ewfwe"
+		},
+		{
+			"date": "whdghwe",
+			"action": "wefqwe",
+			"unitprice":"334",
+			"count":22,
+			"total":"ewfwe"
+		},
+		{
+			"date": "whdghwe",
+			"action": "wefqwe",
+			"unitprice":"334",
+			"count":23,
+			"total":"ewfwe"
+		},
+		{
+			"date": "whdghwe",
+			"action": "wefqwe",
+			"unitprice":"334",
+			"count":24,
+			"total":"ewfwe"
+		},
+		{
+			"date": "whdghwe",
+			"action": "wefqwe",
+			"unitprice":"334",
+			"count":25,
+			"total":"ewfwe"
+		}
+	]
+
+}
+

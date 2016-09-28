@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.1",
+  "description": "",
+  "dependencies": {
+    "gulp": "*",
+    "bower":"*",
+    "gulp-connect":"*",
+    "run-sequence":"*"
+
+  },
+  "author": "venkat",
+  "license": "ISC"
+}
